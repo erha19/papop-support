@@ -19,4 +19,4 @@ Use these URLs after GitHub Pages is active:
 
 ## Before Submission
 
-Replace `support@papop.app` with the production support inbox if needed.
+Support email: `faterrole@gmail.com`.
