@@ -268,6 +268,17 @@ h1 {
   text-underline-offset: 0.18em;
 }
 
+.language-divider {
+  margin-top: 42px;
+  padding-top: 34px;
+  border-top: 2px solid rgba(72, 42, 18, 0.2);
+}
+
+.paper-document .language-divider .eyebrow {
+  margin: 0 0 14px;
+  color: #a11a12;
+}
+
 .footer {
   display: flex;
   justify-content: space-between;
